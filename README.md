@@ -58,16 +58,6 @@ This project presents an interactive Healthcare Analytics Dashboard developed us
 
 <img width="1333" height="741" alt="Screenshot 2026-07-16 102258" src="https://github.com/user-attachments/assets/187719c2-7649-45a3-8a3c-2d7d0c7d7353" />
 
-
----
-
-## 📂 Files
-
-- Healthcare Dashboard.pbix
-- Healthcare Dataset.xlsx
-- Dashboard_Page1.png
-- Dashboard_Page2.png
-
 ---
 
 ## 👨‍💻 Developed By
