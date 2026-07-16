@@ -51,11 +51,13 @@ This project presents an interactive Healthcare Analytics Dashboard developed us
 
 ### Executive Dashboard
 
-![Dashboard Page 1](Dashboard_Page1.png)
+<img width="1344" height="745" alt="Screenshot 2026-07-16 102241" src="https://github.com/user-attachments/assets/a641bceb-8efa-46d4-a5ae-2079e2c13887" />
+
 
 ### Patient Insights Dashboard
 
-![Dashboard Page 2](Dashboard_Page2.png)
+<img width="1333" height="741" alt="Screenshot 2026-07-16 102258" src="https://github.com/user-attachments/assets/187719c2-7649-45a3-8a3c-2d7d0c7d7353" />
+
 
 ---
 
