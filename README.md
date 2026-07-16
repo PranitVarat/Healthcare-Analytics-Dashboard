@@ -49,7 +49,7 @@ This project presents an interactive Healthcare Analytics Dashboard developed us
 
 ## 📷 Dashboard Preview
 
-### Executive Dashboard
+### Healthcare Analytics Dashboard
 
 <img width="1344" height="745" alt="Screenshot 2026-07-16 102241" src="https://github.com/user-attachments/assets/a641bceb-8efa-46d4-a5ae-2079e2c13887" />
 
